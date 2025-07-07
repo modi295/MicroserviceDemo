@@ -1,0 +1,21 @@
+# Ignore build output
+bin/
+obj/
+logs/
+
+# Ignore user-specific files
+*.user
+*.suo
+
+# Ignore VS Code settings
+.vscode/
+
+# Ignore NuGet packages
+*.nupkg
+packages/
+
+# Ignore logs
+*.log
+
+# Ignore temporary files
+*.tmp
