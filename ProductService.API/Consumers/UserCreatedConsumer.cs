@@ -1,5 +1,5 @@
 using MassTransit;
-using ProductService.API.Contracts;
+using Contracts;
 
 namespace ProductService.API.Consumers
 {
